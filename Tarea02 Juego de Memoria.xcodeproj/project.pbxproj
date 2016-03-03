@@ -12,8 +12,6 @@
 		A2BFF41F1C8820F10014C256 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2BFF41D1C8820F10014C256 /* Main.storyboard */; };
 		A2BFF4211C8820F10014C256 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2BFF4201C8820F10014C256 /* Assets.xcassets */; };
 		A2BFF4241C8820F10014C256 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2BFF4221C8820F10014C256 /* LaunchScreen.storyboard */; };
-		A2BFF42F1C8820F10014C256 /* Tarea02_Juego_de_MemoriaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2BFF42E1C8820F10014C256 /* Tarea02_Juego_de_MemoriaTests.swift */; };
-		A2BFF43A1C8820F10014C256 /* Tarea02_Juego_de_MemoriaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2BFF4391C8820F10014C256 /* Tarea02_Juego_de_MemoriaUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,20 +32,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A2BFF4161C8820F10014C256 /* Tarea02 Juego de Memoria.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tarea02 Juego de Memoria.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A2BFF4161C8820F10014C256 /* Tarea02 Juego de Memoria.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Tarea02 Juego de Memoria.app"; path = "/Users/marianamtzdelgado/Desktop/Tarea 2 Juego de Memoria/Tarea02 Juego de Memoria/build/Debug-iphoneos/Tarea02 Juego de Memoria.app"; sourceTree = "<absolute>"; };
 		A2BFF4191C8820F10014C256 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A2BFF41B1C8820F10014C256 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A2BFF41E1C8820F10014C256 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A2BFF4201C8820F10014C256 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2BFF4231C8820F10014C256 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A2BFF4251C8820F10014C256 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A2BFF42A1C8820F10014C256 /* Tarea02 Juego de MemoriaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tarea02 Juego de MemoriaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A2BFF42E1C8820F10014C256 /* Tarea02_Juego_de_MemoriaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tarea02_Juego_de_MemoriaTests.swift; sourceTree = "<group>"; };
-		A2BFF4301C8820F10014C256 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A2BFF4351C8820F10014C256 /* Tarea02 Juego de MemoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tarea02 Juego de MemoriaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A2BFF4391C8820F10014C256 /* Tarea02_Juego_de_MemoriaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tarea02_Juego_de_MemoriaUITests.swift; sourceTree = "<group>"; };
-		A2BFF43B1C8820F10014C256 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A2BFF4471C88214A0014C256 /* Tarea02 Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Tarea02 Juego de Memoria.playground"; sourceTree = "<group>"; };
+		A2BFF42A1C8820F10014C256 /* Tarea02 Juego de MemoriaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Tarea02 Juego de MemoriaTests.xctest"; path = "/Users/marianamtzdelgado/Desktop/Tarea 2 Juego de Memoria/Tarea02 Juego de Memoria/build/Debug-iphoneos/Tarea02 Juego de MemoriaTests.xctest"; sourceTree = "<absolute>"; };
+		A2BFF4351C8820F10014C256 /* Tarea02 Juego de MemoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Tarea02 Juego de MemoriaUITests.xctest"; path = "/Users/marianamtzdelgado/Desktop/Tarea 2 Juego de Memoria/Tarea02 Juego de Memoria/build/Debug-iphoneos/Tarea02 Juego de MemoriaUITests.xctest"; sourceTree = "<absolute>"; };
+		A2BFF4471C88214A0014C256 /* Tarea02 Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Tarea02 Juego de Memoria.playground"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,26 +73,13 @@
 			isa = PBXGroup;
 			children = (
 				A2BFF4181C8820F10014C256 /* Tarea02 Juego de Memoria */,
-				A2BFF42D1C8820F10014C256 /* Tarea02 Juego de MemoriaTests */,
-				A2BFF4381C8820F10014C256 /* Tarea02 Juego de MemoriaUITests */,
-				A2BFF4171C8820F10014C256 /* Products */,
-				A2BFF4471C88214A0014C256 /* Tarea02 Juego de Memoria.playground */,
 			);
-			sourceTree = "<group>";
-		};
-		A2BFF4171C8820F10014C256 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				A2BFF4161C8820F10014C256 /* Tarea02 Juego de Memoria.app */,
-				A2BFF42A1C8820F10014C256 /* Tarea02 Juego de MemoriaTests.xctest */,
-				A2BFF4351C8820F10014C256 /* Tarea02 Juego de MemoriaUITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		A2BFF4181C8820F10014C256 /* Tarea02 Juego de Memoria */ = {
 			isa = PBXGroup;
 			children = (
+				A2BFF4471C88214A0014C256 /* Tarea02 Juego de Memoria.playground */,
 				A2BFF4191C8820F10014C256 /* AppDelegate.swift */,
 				A2BFF41B1C8820F10014C256 /* ViewController.swift */,
 				A2BFF41D1C8820F10014C256 /* Main.storyboard */,
@@ -107,24 +88,6 @@
 				A2BFF4251C8820F10014C256 /* Info.plist */,
 			);
 			path = "Tarea02 Juego de Memoria";
-			sourceTree = "<group>";
-		};
-		A2BFF42D1C8820F10014C256 /* Tarea02 Juego de MemoriaTests */ = {
-			isa = PBXGroup;
-			children = (
-				A2BFF42E1C8820F10014C256 /* Tarea02_Juego_de_MemoriaTests.swift */,
-				A2BFF4301C8820F10014C256 /* Info.plist */,
-			);
-			path = "Tarea02 Juego de MemoriaTests";
-			sourceTree = "<group>";
-		};
-		A2BFF4381C8820F10014C256 /* Tarea02 Juego de MemoriaUITests */ = {
-			isa = PBXGroup;
-			children = (
-				A2BFF4391C8820F10014C256 /* Tarea02_Juego_de_MemoriaUITests.swift */,
-				A2BFF43B1C8820F10014C256 /* Info.plist */,
-			);
-			path = "Tarea02 Juego de MemoriaUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -218,7 +181,7 @@
 				Base,
 			);
 			mainGroup = A2BFF40D1C8820F10014C256;
-			productRefGroup = A2BFF4171C8820F10014C256 /* Products */;
+			productRefGroup = A2BFF40D1C8820F10014C256;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -270,7 +233,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A2BFF42F1C8820F10014C256 /* Tarea02_Juego_de_MemoriaTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,7 +240,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A2BFF43A1C8820F10014C256 /* Tarea02_Juego_de_MemoriaUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

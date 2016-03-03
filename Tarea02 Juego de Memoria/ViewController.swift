@@ -1,7 +1,7 @@
 //Generar un rango de 0 a 100, incluye el número 100 en el rango.
 //Iterar el rango completo, utilizando la sentencia for
 
-for n in 1...100{
+for n in 0...100{
     
     // Si el número es divisible entre 5, imprime: # el número  + “Bingo!!!"
     
