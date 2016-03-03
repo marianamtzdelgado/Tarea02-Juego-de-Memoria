@@ -47,6 +47,7 @@
 		A2BFF4351C8820F10014C256 /* Tarea02 Juego de MemoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tarea02 Juego de MemoriaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2BFF4391C8820F10014C256 /* Tarea02_Juego_de_MemoriaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tarea02_Juego_de_MemoriaUITests.swift; sourceTree = "<group>"; };
 		A2BFF43B1C8820F10014C256 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2BFF4471C88214A0014C256 /* Tarea02 Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Tarea02 Juego de Memoria.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 				A2BFF42D1C8820F10014C256 /* Tarea02 Juego de MemoriaTests */,
 				A2BFF4381C8820F10014C256 /* Tarea02 Juego de MemoriaUITests */,
 				A2BFF4171C8820F10014C256 /* Products */,
+				A2BFF4471C88214A0014C256 /* Tarea02 Juego de Memoria.playground */,
 			);
 			sourceTree = "<group>";
 		};
